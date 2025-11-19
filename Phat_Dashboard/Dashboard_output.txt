@@ -1,0 +1,5 @@
+Truy xuất thông tin nhân viên để làm Overall:
+result: {\"employee_id\": \"SEC-01989\", \"team\": \"Security\", \"position\": \"Senior\", \"age\": \"32\", \"gender\": \"Male\", \"join_date\": \"8/2021\", \"start_year\": 2021
+
+Truy xuất thông tin để vẽ biểu đồ phân phối điểm trong 1 team: 
+result: {\"employee_id\": \"DEV-06318\", \"final_score\": \"75.23\", \"team\": \"Dev\"} (Chỉ lấy final score như demo trước - filtering by team)
